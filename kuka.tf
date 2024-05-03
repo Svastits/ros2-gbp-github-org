@@ -1,13 +1,13 @@
 locals {
   kuka_team = [
     "Svastits",
-    "kovacsge11",
     "VX792",
+    "kovacsge11",
   ]
   kuka_repositories = [
+    "kuka_drivers-release",
     "kuka_external_control_sdk-release",
     "kuka_robot_descriptions-release",
-    "kuka_drivers-release",
   ]
 }
 
